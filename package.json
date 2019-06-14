@@ -1,0 +1,24 @@
+{
+  "name": "article-ai",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/on16/article-ai.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/on16/article-ai/issues"
+  },
+  "homepage": "https://github.com/on16/article-ai#readme",
+  "dependencies": {
+    "@google-cloud/language": "^3.2.1",
+    "ibm-watson": "^4.2.0",
+    "twitter": "^1.7.1"
+  }
+}
